@@ -10,11 +10,12 @@ It is made for Coffeescript and Jade
 ## Here are some samples showing how amazing it looks
 
 ### For coffee
-![Coffee sample 1](https://raw.github.com/tcheymol/McChristmasFont/master/coffee1.png)
-![Coffee sample 2](https://raw.github.com/tcheymol/McChristmasFont/master/coffee2.png)
+<img src="https://raw.github.com/tcheymol/McChristmasFont/master/coffee1.png" alt="Coffee sample 1" width="600px;">
+<img src="https://raw.github.com/tcheymol/McChristmasFont/master/coffee2.png" alt="Coffee sample 2" width="600px;">
 
 ### For json
-![Json sample](https://raw.github.com/tcheymol/McChristmasFont/master/json.png)
+<img src="https://raw.github.com/tcheymol/McChristmasFont/master/json.png" alt="Json sample" width="600px;">
 
 ### For jade
-![Jade sample](https://raw.github.com/tcheymol/McChristmasFont/master/jade.png)
+<img src="https://raw.github.com/tcheymol/McChristmasFont/master/jade.png" alt="Jade sample" width="600px;">
+
