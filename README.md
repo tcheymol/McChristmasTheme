@@ -3,7 +3,7 @@
 
 ## Why use this theme ?
 
-If you feel sad these days, or if you can't afford a chrismas Three, You only need to download and use this theme with your favorite JetBrain IDE
+If you feel sad these days, or if you can't afford a Christmas tree, You only need to download and use this theme with your favorite JetBrain IDE
 
 It is made for Coffeescript and Jade
 
