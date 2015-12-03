@@ -1,11 +1,11 @@
 # McChristmasTheme
 -------------------------
 
-## Why use this theme ?
+## Why use this theme?
 
-If you feel sad these days, or if you can't afford a chrismas Three, You only need to download and use this theme with your favorite JetBrain IDE
+If you feel sad these days, or if you can't afford a chrismas Tree, You only need to download and use this theme with your favorite JetBrain IDE.
 
-It is made for Coffeescript and Jade
+It works for Coffeescript and Jade.
 
 ## Here are some samples showing how amazing it looks
 
@@ -19,4 +19,3 @@ It is made for Coffeescript and Jade
 
 ### For jade
 <img src="https://raw.github.com/tcheymol/McChristmasFont/master/jade.png" alt="Jade sample" width="600px;">
-
